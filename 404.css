@@ -1,0 +1,53 @@
+.container {
+    font-family: 'Inconsolata', monospace;
+    height: 25px;
+    wight: 133px;
+    font-size: 24px;
+    margin-left: 3%;
+   
+}
+.container-img img {
+    width: 539.22px;
+    height: 437.43px;
+    position: absolute;
+    margin-left: 5%;
+    margin-top: 10%;
+}
+.content {
+    position: absolute;
+    width: 586px;
+    height: 190px; 
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34px;  
+    color: #333333;
+    margin-top: 7%;
+    margin-left: 50%;
+}
+.content-info {
+    position: absolute;
+width: 381px;
+height: 108px;
+margin-left: 50%;
+margin-top: 25%;
+font-family: 'Space Mono';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 36px;
+letter-spacing: -0.035em;
+}
+button {
+    height: 68px;
+    width: 216px;
+    background-color: #333333;
+    color: white;
+    margin-left: 50%;
+    margin-top: 40%;
+}
+.creater {
+    text-align: center;
+    margin-top: 100%;
+    padding: 20%;
+}
